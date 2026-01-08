@@ -5,14 +5,6 @@ I am a developer who loves diving into how things work under the hood. Currently
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kartikeywastaken&show_icons=true&theme=tokyonight&hide_border=true" alt="Kartikey's Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeywastaken&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
