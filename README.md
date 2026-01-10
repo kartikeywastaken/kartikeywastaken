@@ -1,8 +1,7 @@
 # Hi there, I'm Kartikey! 👋
 ### C Programmer & Low-Level Enthusiast
 
-I am a developer who loves diving into how things work under the hood. Currently building **Terminal-based AI Clients** and exploring **Network Protocols**.
-
+I am a developer who loves diving into how complex things work. 
 ---
 
 ### 🛠️ Tech Stack
