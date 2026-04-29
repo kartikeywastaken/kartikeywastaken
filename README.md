@@ -2,7 +2,7 @@
 
 ### Systems Programmer • OS Enthusiast 
 
-Building what I find cool and usefull :) .
+Building what I find cool and usefull :) . Just trying to be better. 
 
 ---
 
@@ -19,29 +19,17 @@ Building what I find cool and usefull :) .
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge\&logo=gnuemacs\&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### **C Template Engine**
-
-> Lightweight template rendering engine written in C from scratch.
-> **Focus:** Parsing, String Processing, Memory Management
-
----
-
-### **C-LLM-Terminal-Client**
-
-> Chat with LLMs directly from the terminal using C and libcurl.
-> **Focus:** APIs, Terminal UX, Low-Level HTTP Integration
-
----
-
-### **C-Lossless-Compressor**
-
-> Huffman-based file compression utility built in C.
-> **Focus:** Compression Algorithms, Bit Manipulation, Trees
+| Project                                                                                | Description                                                     | Tech / Concepts                                 |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------- |
+| **[C Template Engine](https://github.com/kartikeywastaken/c-template-engine)**         | Lightweight template rendering engine written in C from scratch | Parsing, String Processing, Memory Management   |
+| **[C-LLM-Terminal-Client](https://github.com/kartikeywastaken/c-llm-terminal-client)** | Chat with LLMs directly from the terminal using C and libcurl   | APIs, Terminal UX, HTTP Integration             |
+| **[C-Lossless-Compressor](https://github.com/kartikeywastaken/c-lossless-compressor)** | Huffman-based file compression utility built in C               | Compression Algorithms, Bit Manipulation, Trees |
 
 ---
 
@@ -56,7 +44,7 @@ Building what I find cool and usefull :) .
 
 ## 📈 Philosophy
 
-> "Build from first principles. Understand the abstraction by recreating it."
+> "Reckless and Restless. "
 
 ---
 
