@@ -4,7 +4,6 @@
 
 Building what I find cool and usefull :) . Just trying to be better. 
 
----
 
 ## ⚙️ Core Focus Areas
 
@@ -12,7 +11,6 @@ Building what I find cool and usefull :) . Just trying to be better.
 * Compiler Design
 * Linux Tooling / CLI Development
 
----
 
 ## 🛠 Tech Stack
 
@@ -21,7 +19,6 @@ Building what I find cool and usefull :) . Just trying to be better.
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge\&logo=gnuemacs\&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
@@ -31,7 +28,6 @@ Building what I find cool and usefull :) . Just trying to be better.
 | **[C-LLM-Terminal-Client](https://github.com/kartikeywastaken/c-llm-terminal-client)** | Chat with LLMs directly from the terminal using C and libcurl   | APIs, Terminal UX, HTTP Integration             |
 | **[C-Lossless-Compressor](https://github.com/kartikeywastaken/c-lossless-compressor)** | Huffman-based file compression utility built in C               | Compression Algorithms, Bit Manipulation, Trees |
 
----
 
 ## 📚 Currently Exploring
 
@@ -40,13 +36,11 @@ Building what I find cool and usefull :) . Just trying to be better.
 * Memory Allocator Design
 * Reverse Engineering
 
----
 
 ## 📈 Philosophy
 
 > "Reckless and Restless. "
 
----
 
 [![](https://visitcount.itsvg.in/api?id=kartikeywastaken\&label=Profile%20Views\&color=12\&icon=5\&pretty=true)](https://visitcount.itsvg.in)
 
