@@ -1,21 +1,64 @@
-# Hi there, I'm Kartikey! 👋
-### C Programmer & Low-Level Enthusiast
+# Hey, I'm Kartikey 
 
-I am a developer who loves diving into how complex things work. 
----
+### Systems Programmer • OS Enthusiast 
 
-### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Building what I find cool and usefull :) .
 
 ---
 
-### 🔭 Current Projects
-- **[C-LLM-Terminal-Client](https://github.com/kartikeywastaken/c-llm-terminal-client):** Chat with Gemini AI directly from the terminal using C and libcurl.
-- **[Low-Level-Socket-Protocols](https://github.com/kartikeywastaken/low-level-socket-protocols):** Building raw TCP/UDP implementations from scratch.
-- **[Huffman-Compressor](https://github.com/kartikeywastaken/huffman-compressor):** A lossless file compression tool implemented in C using the Huffman coding algorithm.
+## ⚙️ Core Focus Areas
+
+* Systems Programming in C
+* Compiler Design
+* Linux Tooling / CLI Development
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kartikeywastaken&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### **C Template Engine**
+
+> Lightweight template rendering engine written in C from scratch.
+> **Focus:** Parsing, String Processing, Memory Management
+
+---
+
+### **C-LLM-Terminal-Client**
+
+> Chat with LLMs directly from the terminal using C and libcurl.
+> **Focus:** APIs, Terminal UX, Low-Level HTTP Integration
+
+---
+
+### **C-Lossless-Compressor**
+
+> Huffman-based file compression utility built in C.
+> **Focus:** Compression Algorithms, Bit Manipulation, Trees
+
+---
+
+## 📚 Currently Exploring
+
+* Compiler / Parser Design
+* Operating System Internals
+* Memory Allocator Design
+* Reverse Engineering
+
+---
+
+## 📈 Philosophy
+
+> "Build from first principles. Understand the abstraction by recreating it."
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kartikeywastaken\&label=Profile%20Views\&color=12\&icon=5\&pretty=true)](https://visitcount.itsvg.in)
+
