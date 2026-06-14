@@ -4,14 +4,6 @@
 
 Building what I find cool and usefull :) . Just trying to be better. 
 
-
-## ⚙️ Core Focus Areas
-
-* Systems Programming in C
-* Compiler Design
-* Linux Tooling / CLI Development
-
-
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
@@ -31,9 +23,9 @@ Building what I find cool and usefull :) . Just trying to be better.
 
 ## 📚 Currently Exploring
 
-* Compiler / Parser Design
+* OS Development
 * Operating System Internals
-* Memory Allocator Design
+* Malware Engineering
 * Reverse Engineering
 
 
