@@ -34,7 +34,7 @@
 | **[Hephaestus](https://github.com/kartikeywastaken/Hephaestus)** | A binary reconstruction platform with AI-assisted analysis for recovering structure from raw binaries | Reverse Engineering, Binary Analysis, AI Agents, CFG Recovery |
 | **[C Template Engine](https://github.com/kartikeywastaken/c-template-engine)** | Lightweight template rendering engine written in C from scratch | Parsing, String Processing, Memory Management |
 | **[C-LLM-Terminal-Client](https://github.com/kartikeywastaken/c-llm-terminal-client)** | Chat with LLMs directly from the terminal using C and libcurl | APIs, Terminal UX, HTTP Integration |
-| **[C-Lossless-Compressor](https://github.com/kartikeywastaken/c-lossless-compressor)** | Huffman-based file compression utility built in C | Compression Algorithms, Bit Manipulation, Trees |
+| **[Hemlock](https://github.com/kartikeywastaken/Hemlock)** | Adversarial image defense and provenance system written in C | Image Security, Provenance, Adversarial Defense |
 
 
 ## 📚 Currently Exploring
